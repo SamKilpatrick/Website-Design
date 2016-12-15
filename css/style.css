@@ -1,0 +1,121 @@
+body {background-color: grey;}
+
+nav li {
+	list-style: none;
+	display: inline-block;
+}
+
+.top_part{
+	height:200px;
+	width:100%;
+	background-color: white;
+	text-align: center;
+	font-size: 150px;
+
+}
+
+.first_box{
+	display: flex;
+	justify-content: center;
+	flex-flow: row wrap;
+}
+
+.image1{
+	height:400px;
+	width:70%;
+	background-image: url("https://image.freepik.com/free-icon/apple-logo_318-40184.jpg");
+}
+
+.image2{
+	height:400px;
+	width:30%;
+	background-image: url("https://b.fastcompany.net/multisite_files/fastcompany/imagecache/inline-small/inline/2015/09/3050613-inline-i-2-googles-new-logo-copy.png");
+	
+}
+
+
+
+
+.image3{
+	height:200px;
+	width:35%;
+	background-image: url("http://i.amz.mshcdn.com/UD-KASEmF9tLG5TaqmEQQL_LJrc=/fit-in/1200x9600/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F122081%2FS-Skype-logo.png");
+}
+
+.image4{
+	height:200px;
+	width:35%;
+	background-image: url("http://img07.deviantart.net/94f4/i/2009/090/5/5/colonial_logo_wallpaper_2_by_samwisevt.jpg");
+}
+
+.image5{
+	height:200px;
+	width:22.5%;
+	background-image: url("https://i.ytimg.com/vi/osxjSGdnTME/maxresdefault.jpg");
+}
+
+.image6{
+	height:200px;
+	width:7.5%;
+	background-image: url("http://gary3dfxtech.net/Kodi%20Backgrounds/sport/uefa-football-background.jpg");
+}
+
+.second_box{
+	display: flex;
+}
+
+.image7{
+	height:400px;
+	width:70%;
+	background-image: url("http://xdesktopwallpapers.com/wp-content/uploads/2012/07/Opera%20LoGo%20On%20Blue%20Dotted%20Background.jpg")
+}
+
+.image8{
+	height:400px;
+	width:30%;
+	background-image: url("http://www.desktopimages.org/pictures/2013/0922/1/windows-8-logo-with-red-logo-and-black-background-56043.jpg")
+}
+
+.third_box{
+	display: flex;
+}
+
+.image9{
+	height:200px;
+	width:35%;
+	background-image: url("http://systhread.net/texts/200511gimp-img/plasma_ab_s.jpg");
+}
+
+.image10{
+	height:200px;
+	width:35%;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/48/fe/bb/48febbe70bb8be88411631a6241fbd65.jpg");
+}
+
+.image11{
+	height:200px;
+	width:22.5%;
+	background-image: url("https://freebirdsl.files.wordpress.com/2013/12/sugar-booger-logo-with-background.png?w=800");
+}
+
+.image12{
+	height:200px;
+	width:7.5%;
+	background-image: url("https://static1.squarespace.com/static/56aa3efd05caa7d74abc7da9/t/56b9170e9f72664730f4ea76/1454970643887/");
+}
+
+.fourth_box{
+	display: flex;
+}
+
+.image13{
+	height:400px;
+	width:70%;
+	background-image: url("http://media.gettyimages.com/videos/abstract-orange-background-under-logo-video-id105346962?s=640x640");
+}
+
+.image14{
+	height:1200px;
+	width:30%;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/38/Tampa_FL_Sulphur_Springs_Tower_tall_pano01.jpg");
+}
